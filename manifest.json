@@ -6,8 +6,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/Alabanza-T.E/",
+  "start_url": "/Alabanza-T.E/",
   "icons": [
     {
       "src": "icon-192.png",
